@@ -111,6 +111,15 @@ skin-disease-classification/
 - [Kaggle Dataset - 20 Skin Diseases](https://www.kaggle.com/datasets/haroonalam16/20-skin-diseases-image-dataset)
 - Pretrained models from `tensorflow.keras.applications` or `torchvision.models`
 
+## 📃 Website Interface
+
+![WhatsApp Image 2025-04-28 at 23 10 53_5a576f3e](https://github.com/user-attachments/assets/39b6bffd-26e8-4937-8219-34f53f810704)
+
+
+![WhatsApp Image 2025-04-28 at 23 10 53_028ae4c6](https://github.com/user-attachments/assets/69cf8a08-476b-4a0d-9814-cf848d40d03a)
+
+
+
 ## 📃 License
 
 This project is licensed under the MIT License
