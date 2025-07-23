@@ -3,7 +3,7 @@
 
 This project focuses on classifying images of 20 different skin diseases using a deep learning model trained on the [20 Skin Diseases Dataset](https://www.kaggle.com/datasets/haroonalam16/20-skin-diseases-image-dataset) available on Kaggle.
 
-## 📂 Dataset
+##  Dataset
 
 - **Source**: Kaggle - 20 Skin Diseases Dataset by haroonalam16
 - **Classes**: 20 different skin conditions
@@ -22,13 +22,13 @@ This project focuses on classifying images of 20 different skin diseases using a
     ├── ... (other disease folders)
   ```
 
-## 🚀 Project Goals
+##  Project Goals
 
 - Train a deep learning model to classify skin diseases from images
 - Achieve high accuracy and generalization across diverse classes
 - Deploy the model via a web application or notebook interface for demo purposes
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 - **Backbone**: Transfer Learning with pretrained CNN (e.g., ResNet50, EfficientNet, or MobileNetV2)
 - **Input Size**: 224x224 or 256x256
@@ -36,7 +36,7 @@ This project focuses on classifying images of 20 different skin diseases using a
 - **Optimizer**: Adam
 - **Metrics**: Accuracy, Precision, Recall, F1 Score
 
-## 🛠️ Dependencies
+##  Dependencies
 
 Install the necessary packages using pip:
 
@@ -52,7 +52,7 @@ Main packages used:
 - `opencv-python`
 - `streamlit` (if deployed via web interface)
 
-## 📊 Results
+##  Results
 
 
 | Metric        | Score     |
@@ -69,7 +69,7 @@ Main packages used:
 
 *Note: Results may vary depending on training parameters.*
 
-## 🧪 How to Use
+##  How to Use
 
 1. Clone the repository:
 
@@ -81,7 +81,7 @@ cd skin-disease-classification
 
 ```
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 skin-disease-classification/
@@ -106,12 +106,12 @@ skin-disease-classification/
 
 ```
 
-## 📌 Acknowledgments
+##  Acknowledgments
 
 - [Kaggle Dataset - 20 Skin Diseases](https://www.kaggle.com/datasets/haroonalam16/20-skin-diseases-image-dataset)
 - Pretrained models from `tensorflow.keras.applications` or `torchvision.models`
 
-## 📃 Website Interface
+##  Website Interface
 
 ![WhatsApp Image 2025-04-28 at 23 10 53_5a576f3e](https://github.com/user-attachments/assets/39b6bffd-26e8-4937-8219-34f53f810704)
 
@@ -120,6 +120,6 @@ skin-disease-classification/
 
 
 
-## 📃 License
+##  License
 
 This project is licensed under the MIT License
